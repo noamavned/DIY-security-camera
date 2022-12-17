@@ -1,2 +1,6 @@
 # DIY-security-camera
-Security camera from computer and webcam
+Security camera that sends activity to telegram.
+You will need:
+* A webcam
+* device with python installed on it
+* telegram account
